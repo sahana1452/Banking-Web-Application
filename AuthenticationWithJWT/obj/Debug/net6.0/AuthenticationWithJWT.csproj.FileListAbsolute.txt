@@ -1,0 +1,90 @@
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.csproj.AssemblyReference.cache
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.AssemblyInfoInputs.cache
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.AssemblyInfo.cs
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.csproj.CoreCompileInputs.cache
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\appsettings.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.exe
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.deps.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.runtimeconfig.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.pdb
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationWithJWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationWithJWT.props
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationWithJWT.props
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationWithJWT.props
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\scopedcss\bundle\AuthenticationWithJWT.styles.css
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.csproj.CopyComplete
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\refint\AuthenticationWithJWT.dll
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.pdb
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.genruntimeconfig.cache
+C:\Users\Naresh Kumar\source\repos\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\ref\AuthenticationWithJWT.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\appsettings.Development.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\appsettings.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.exe
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.deps.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.runtimeconfig.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\AuthenticationWithJWT.pdb
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.csproj.AssemblyReference.cache
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.AssemblyInfoInputs.cache
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.AssemblyInfo.cs
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.csproj.CoreCompileInputs.cache
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationWithJWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationWithJWT.props
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationWithJWT.props
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationWithJWT.props
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\scopedcss\bundle\AuthenticationWithJWT.styles.css
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\Authenti.A8B15DCF.Up2Date
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\refint\AuthenticationWithJWT.dll
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.pdb
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\AuthenticationWithJWT.genruntimeconfig.cache
+C:\Banking\AuthenticationWithJWT\AuthenticationWithJWT\obj\Debug\net6.0\ref\AuthenticationWithJWT.dll
